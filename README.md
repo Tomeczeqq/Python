@@ -1,2 +1,3 @@
 # Tasks written in Python (for my CS Studies)
-# Subject: Algorithms and data structures
+# Main Subject: Algorithms and data structures
+Codes from Subfolders Fizyka, Mownit, WDI are from different subjects
